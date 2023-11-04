@@ -1,6 +1,6 @@
 # 🚫 REGLES 0 TOLERANCE
 
-Les règles de cette section composent la liste des actes et paroles interdits sur le serveur. Tout fait se passant au sein de la communauté et listé ci-dessous sera passible d'un <mark style="color:red;">**bannissement permanent**</mark> sans possibilité de retour en arrière et sans aucun bénéfice du doute laissé !
+**Les règles de cette section composent la liste des actes et paroles interdits sur le serveur. Tout fait se passant au sein de la communauté et listé ci-dessous sera passible d'un **<mark style="color:red;">**bannissement permanent**</mark>** sans possibilité de retour en arrière et sans aucun bénéfice du doute laissé !**
 
 
 
@@ -17,3 +17,7 @@ Les règles de cette section composent la liste des actes et paroles interdits s
 <mark style="color:blue;">**| I-06 | -**</mark> Utilisation de toute faille de FiveM, GTA ou des ressources du serveur, causant un impact négatif sur les autres personnes.
 
 <mark style="color:blue;">**| I-07 | -**</mark> Publicité non autorisé, quel que soit son type (Discord, message privé, chat textuel, etc...)
+
+<mark style="color:blue;">**| I-08 | -**</mark> Usurpation d'identité et/ou de fonction d'un membre de la communauté ou de l'équipe de modération.
+
+<mark style="color:blue;">**| I-09 | -**</mark> Contournement de tout bannissement appliqué par un des membres de l'équipe de modération du serveur.
