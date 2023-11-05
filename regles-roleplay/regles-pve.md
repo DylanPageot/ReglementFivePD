@@ -2,6 +2,17 @@
 description: >-
   Le PVE (Player Versus Entities) consiste au fait de jouer contre des PNJ du
   jeu, sans aucune interaction avec d'autres joueurs.
+layout:
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: false
+  pagination:
+    visible: true
 ---
 
 # 👮 REGLES PVE

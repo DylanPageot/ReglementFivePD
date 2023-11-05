@@ -1,3 +1,17 @@
+---
+layout:
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: false
+  pagination:
+    visible: true
+---
+
 # 🚔 SERVICES PUBLICS
 
 <mark style="color:purple;">**| 5 - 01 | -**</mark> Lorsque vous effectuez du gameplay PVP, vous devez respecter la cohérence de votre département, quelque soit le service. En tant qu'intérimaire, vous ne pouvez pas être limité sur les tenues et véhicules (hors blindés) que vous utilisés, à partir du moment où ils sont identifiables au département pour lequel vous jouez et cohérents vis à vis des interventions que vous effectuez.

@@ -1,3 +1,17 @@
+---
+layout:
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: false
+  pagination:
+    visible: true
+---
+
 # 🔪 ACTIONS ILLEGALES
 
 <mark style="color:purple;">**| 2 - 01 | -**</mark> Les attentats sont soumis à validation et supervision par un membre de l'équipe de modération du serveur. Ces actes ne pourront pas avoir lieu dans des commissariats, hôpitaux, bases militaires, ou tout autre bâtiment de services de police ou gouvernementaux.

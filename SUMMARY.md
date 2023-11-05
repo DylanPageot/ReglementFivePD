@@ -15,3 +15,7 @@
 * [💀 MORTS, BLESSURES ET NOUVELLES VIES](regles-roleplay/morts-blessures-et-nouvelles-vies.md)
 * [🔫 ARMES ET EXPLOSIFS](regles-roleplay/armes-et-explosifs.md)
 * [🚗 VEHICULES](regles-roleplay/vehicules.md)
+
+## Règles VIP
+
+* [Page 1](regles-vip/page-1.md)

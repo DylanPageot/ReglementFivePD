@@ -1,3 +1,17 @@
+---
+layout:
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: false
+  pagination:
+    visible: true
+---
+
 # 🔫 ARMES ET EXPLOSIFS
 
 <mark style="color:purple;">**| 8 - 01 | -**</mark> L'utilisation de votre arme doit être faite uniquement qu'en cas de dernier recours.

@@ -1,3 +1,17 @@
+---
+layout:
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: false
+  pagination:
+    visible: true
+---
+
 # 👨👨👦👦 GANGS, ENTREPRISES ET ORGANISATIONS
 
 <mark style="color:purple;">**| 6 - 01 | -**</mark> Votre personnage et votre groupe doivent respecter une certaine cohérence. De ce fait, un simple gang de rue ne peut se promener en super-sportive, avoir la totalité du groupe en fusil d'assaut, s'équiper d'une tenue d'intervention lourde, etc...

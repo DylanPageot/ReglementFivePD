@@ -1,3 +1,17 @@
+---
+layout:
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: false
+  pagination:
+    visible: true
+---
+
 # 🚗 VEHICULES
 
 <mark style="color:purple;">**| 9 - 01 | -**</mark> Il est interdit de percuter une personne que ce soit dans le but de la tuer ou la faire tomber.

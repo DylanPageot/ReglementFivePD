@@ -3,6 +3,17 @@ description: >-
   Vous êtes considéré comme joueur PVP (Player Versus Players) du serveur dès
   lorsque vous effectuez une quelconque interaction roleplay avec un autre
   joueur de ce dernier.
+layout:
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: false
+  pagination:
+    visible: true
 ---
 
 # 👬 REGLES PVP

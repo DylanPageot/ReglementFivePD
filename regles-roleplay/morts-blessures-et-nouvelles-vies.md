@@ -1,3 +1,17 @@
+---
+layout:
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: false
+  pagination:
+    visible: true
+---
+
 # 💀 MORTS, BLESSURES ET NOUVELLES VIES
 
 <mark style="color:purple;">**| 7 - 01 | -**</mark> Votre personnage n'est pas insensible à la douleur. Vous devez simuler cette dernière lorsque vous êtes blessés.

@@ -1,3 +1,17 @@
+---
+layout:
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: false
+  pagination:
+    visible: true
+---
+
 # 💭 CHATS VOCAUX / ECRITS
 
 <mark style="color:blue;">**| 0 - 21 | -**</mark> Pas de spam, harcèlement ou comportement toxique envers qui que ce soit faisant partie de la communauté.

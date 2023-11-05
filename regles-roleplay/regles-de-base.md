@@ -1,3 +1,17 @@
+---
+layout:
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: false
+  pagination:
+    visible: true
+---
+
 # ⚠ REGLES DE BASE
 
 <mark style="color:purple;">**| 1 - 01 | -**</mark> Vous ne pouvez pas agresser ou tuer une personne sans raison valable.

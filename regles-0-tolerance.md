@@ -1,3 +1,17 @@
+---
+layout:
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: false
+  pagination:
+    visible: true
+---
+
 # 🚫 REGLES 0 TOLERANCE
 
 **Les règles de cette section composent la liste des actes et paroles interdits sur le serveur. Tout fait se passant au sein de la communauté et listé ci-dessous sera passible d'un **<mark style="color:red;">**bannissement permanent**</mark>** sans possibilité de retour en arrière et sans aucun bénéfice du doute laissé !**
