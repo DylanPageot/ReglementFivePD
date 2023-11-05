@@ -6,7 +6,6 @@ description: >-
 
 # 👮 REGLES PVE
 
-\| II - 80 | - Lorsque vous effectuez du gameplay PVE, vous n'êtes pas soumis aux restrictions de juridiction ou de service.
+<mark style="color:purple;">**| 3 - 01 | -**</mark> Lorsque vous effectuez du gameplay PVE, vous n'êtes pas soumis aux restrictions de juridiction ou de service.
 
-\| II - 81 | - L'accès à un bâtiment, une zone ou un lieu ne peut être interdit à un joueur devant intervenir dans le cadre d'un callout PVE.
-
+<mark style="color:purple;">**| 3 - 02 | -**</mark> L'accès à un bâtiment, une zone ou un lieu ne peut être interdit à un joueur devant intervenir dans le cadre d'un callout PVE.

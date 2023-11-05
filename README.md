@@ -10,14 +10,16 @@ description: Vous trouverez ici le règlement complet du serveur FivePD.
 
 ***
 
-\| I - 01 | - Le serveur étant basé aux Etats-Unis, vous devez respecter les lois et la constitution des Etats-Unis. Il en va de même pour la "hiérarchie" entre les services de police.
+<mark style="color:blue;">**| 0 - 01 |**</mark> <mark style="color:blue;">**-**</mark> Le serveur étant basé aux Etats-Unis, vous devez respecter les lois et la constitution des Etats-Unis. Il en va de même pour la "hiérarchie" entre les services de police.
 
 {% hint style="info" %}
 Exemple : un agent fédéral aura plus de pouvoir qu'un agent municipal.
 {% endhint %}
 
-\| I - 00 | - Vous ne pouvez acquérir, via le channel "annonce roleplay" du Discord du serveur, plus de deux propriétés. Ces dernières ne peuvent être qu'uniquement des bâtiments et non des rues, quartiers, groupement d'immeubles, etc...
+<mark style="color:blue;">**| 0 - 02 | -**</mark> Lorsque vous devez faire appel à un membre de l'équipe de modération, vous devez obligatoirement passer par les tickets (en jeu ou sur Discord). Tout message envoyer via le téléphone en jeu ou par message privé sur Discord ne sera pas pris en compte.
 
-\| I - 00 | - L'utilisation de paramètres graphiques (telles que les résolutions ou packs graphiques types "no night", "no fog", "crosshair custom", etc...) visant à donner un avantage sur les autres joueurs est interdite. Les packs graphiques visant à embellir le jeu (NVE, Redux, QuantV, etc...) sont autorisés.
+<mark style="color:blue;">**| 0 - 03 | -**</mark> Vous devez avoir un pseudo correct, qui permet à l'équipe de modération de vous identifier facilement. Les jeux de mots sont autorisés. Les pseudos comportant une insulte ou un manque de respect sont interdits.
 
-\| I - 00 | - Lorsque vous devez faire appel à un membre de l'équipe de modération, vous devez obligatoirement passer par les tickets (en jeu ou sur Discord). Tout message envoyer via le téléphone en jeu ou par message privé sur Discord ne sera pas pris en compte.
+<mark style="color:blue;">**| 0 - 04 | -**</mark> L'utilisation de paramètres graphiques (telles que les résolutions ou packs graphiques types "no night", "no fog", "crosshair custom", etc...) visant à donner un avantage sur les autres joueurs est interdite. Les packs graphiques visant à embellir le jeu (NVE, Redux, QuantV, etc...) sont autorisés.
+
+<mark style="color:blue;">**| 0 - 05 | -**</mark> Vous ne pouvez acquérir, via le channel "annonce roleplay" du Discord du serveur, plus de deux propriétés. Ces dernières ne peuvent être qu'uniquement des bâtiments et non des rues, quartiers, groupement d'immeubles, etc...
