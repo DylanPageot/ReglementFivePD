@@ -18,4 +18,4 @@
 
 ## Règles VIP
 
-* [Page 1](regles-vip/page-1.md)
+* [💵 Règles VIP générales](regles-vip/regles-vip-generales.md)

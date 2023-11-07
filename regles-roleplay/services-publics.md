@@ -20,7 +20,7 @@ layout:
 Exemple : Si vous jouez dans le service du LSPD, vous devez posséder un véhicule LSPD, une tenue LSPD, effectuer des tâches relevant du LSPD et patrouiller dans la zone de juridiction du LSPD.
 {% endhint %}
 
-<mark style="color:purple;">**| 5 - 02 | -**</mark> Vous ne devez pas utiliser les équipements médicaux, de pompiers ou de police en tant que civil. Cela englobe également les différentes armes et véhicules de ces services.
+<mark style="color:purple;">**| 5 - 02 | -**</mark> Vous ne devez pas utiliser les équipements médicaux, de pompiers ou de police en tant que civil. Cela englobe également les différentes armes et véhicules (même banalisés) de ces services.
 
 <mark style="color:purple;">**| 5 - 03 | -**</mark> En tant que policier, vous ne pouvez pas intervenir dans les quartiers chauds (gangs, organisations, etc...) seul ou sans raison valable.
 
