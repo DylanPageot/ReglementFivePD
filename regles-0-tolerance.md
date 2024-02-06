@@ -20,7 +20,7 @@ layout:
 
 <mark style="color:blue;">**| 0 - 11 | -**</mark> Blagues, memes ou tout autre propos, que ce soit à l'oral, par image ou par écrit, concernant la race, la religion, l'âge, l'orientation sexuelle, le sexe ou le handicap. Cela inclut également toutes les versions argotiques ou abrégées de ces termes.
 
-<mark style="color:blue;">**| 0 - 12 | -**</mark> Incitation à la haine ou dénigrement envers la communauté ou un de ses membres (sauf si cela va à l'encontre de Wolf).
+<mark style="color:blue;">**| 0 - 12 | -**</mark> Incitation à la haine ou dénigrement envers la communauté ou un de ses membres.
 
 <mark style="color:blue;">**| 0 - 13 | -**</mark> Menace envers la communauté ou un de ses membres ; que ce soit des menaces de mort, d'attaque par déni de service, d'atteinte à l'intégrité physique ou morale d'une tierce personne (en dehors du cadre du roleplay) ou tout autre type de menace. Cela prend également en compte le harcèlement, de quelconque type qu'il soit : physique, mental et/ou sexuel.
 
