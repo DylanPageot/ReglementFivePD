@@ -43,3 +43,5 @@ Exemple : je suis au LSPD, je finis une action et passe au FIB. Je termine mon a
 <mark style="color:purple;">**| 5 - 08 | -**</mark> Vous ne pouvez pas effectuer de RP ripoux / corrompus lorsque vous êtes dans un service fédéral, gouvernemental ou militaire.
 
 <mark style="color:purple;">**| 5 - 09 | -**</mark> Pour faire arrêter ou destituer un chef de service, vous devez vous munir d'un dossier complet comportant tous les éléments possibles et imaginables vous donnant raison (preuves) et le soumettre via un ticket sur le Discord du serveur pour faire valider cela.
+
+<mark style="color:purple;">**| 5 - 10 | -**</mark> Vous ne pouvez pas faire partie d'un des deux plus hauts corps d'un service si cela est déjà votre cas pour un autre département de police.
