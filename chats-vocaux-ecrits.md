@@ -18,7 +18,7 @@ layout:
 
 <mark style="color:blue;">**| 0 - 22 | -**</mark> Le chat textuel est un lieu de discussion où tout le monde se doit le respect. Si une altercation avec un autre joueur éclate, réglez ça en faisant un report plutôt que de vous en prendre à ce dernier, que ce soit à l'écrit ou à l'oral.
 
-<mark style="color:blue;">**| 0 - 23 | -**</mark> Les insultes parentales, racistes, sur l'orientation sexuelle ou la région sont interdites, que cela soit dans le cadre roleplay ou non. Les insultes légères sont quant à elles tolérées.
+<mark style="color:blue;">**| 0 - 23 | -**</mark> Les insultes parentales, racistes, sur l'orientation sexuelle ou la religion sont interdites, que cela soit dans le cadre roleplay ou non. Les insultes légères sont quant à elles tolérées.
 
 <mark style="color:blue;">**| 0 - 24 | -**</mark> Il est interdit de narguer un autre joueur, notamment après l'avoir tué.
 
