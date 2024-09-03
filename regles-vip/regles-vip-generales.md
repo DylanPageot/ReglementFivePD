@@ -1,4 +1,4 @@
-# 💵 Règles VIP générales
+# 💵 REGLES VIP GENERALES
 
 <mark style="color:orange;">**| 10 - 01 | -**</mark> Tous les achats effectués sur notre boutique sont destinées à soutenir le serveur et ne peuvent pas engendrer une quelconque immunité en cas de non respect du règlement.
 
@@ -9,4 +9,6 @@
 <mark style="color:orange;">**| 10 - 04 | -**</mark> La mise en place de gyrophares sur des véhicules civils transforme automatiquement ces derniers en véhicules de police. Ils ne peuvent donc être utilisés que par des forces de l'ordre.
 
 <mark style="color:orange;">**| 10 - 05 | -**</mark> Le fait de ce transformer en chien ne permet pas de mordre sans raison. Tout roleplay s'apparentant à un chien enragé (ou similaire) sera considéré comme du freekill.
+
+<mark style="color:orange;">**| 10 - 06 | -**</mark> Les véhicules VIP peuvent être utilisés en véhicule civils dès lorsqu'ils ne possèdent plus de gyrophares apparents.
 
