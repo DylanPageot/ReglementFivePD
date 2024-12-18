@@ -12,7 +12,7 @@ layout:
     visible: true
 ---
 
-# ⚠ REGLES DE BASE
+# ⚠️ REGLES DE BASE
 
 <mark style="color:purple;">**| 1 - 01 | -**</mark> Vous ne pouvez pas agresser ou tuer une personne sans raison valable.
 
@@ -47,3 +47,5 @@ Exemple : si vous vous rendez sur un toit, ce dernier doit être accessible grâ
 {% endhint %}
 
 <mark style="color:purple;">**| 1 - 11 | -**</mark> Les actions roleplay mettant en scène des actes à connotation sexuelle sont autorisées dans la limite où elles ne sont ni abusives, ni dérangeantes pour les autres joueurs. Les scènes représentant des agressions sexuelles sont strictement interdites.
+
+<mark style="color:purple;">**| 1 - 12 | -**</mark> Les scènes à connotations sexuelles, qu'elles aient reçu le consentement des deux parties ou non, sont strictement interdites sur le serveur et sont passibles de sanctions lourdes. Le terme connotation sexuelle comprends autant l'acte sexuel (préliminaire et concret) que les insinuations à caractères sexuels (remarques, gestes, messages, ...)
