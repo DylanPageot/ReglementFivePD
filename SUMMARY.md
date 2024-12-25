@@ -19,3 +19,4 @@
 ## Règles VIP
 
 * [💵 REGLES VIP GENERALES](regles-vip/regles-vip-generales.md)
+* [🕺 ANIMATIONS PERSONNALISÉES](regles-vip/animations-personnalisees.md)
