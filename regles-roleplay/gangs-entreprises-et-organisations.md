@@ -24,5 +24,5 @@ layout:
 &#x20;Prenons l'exemple d'un service créé par un joueur comme le Gruppe 6. Les conditions d'entrées sont régies par les joueurs responsables du Gruppe 6. Vous devrez donc vous rapprocher d'eux pour y entrer.
 {% endhint %}
 
-<mark style="color:purple;">**| 6 - 04 | -**</mark> Il est interdit de stipuler le fait d'être accepté dans un gang ou une organisation (criminelle ou non), sans que cela ne soit le cas.
+<mark style="color:purple;">**| 6 - 04 | -**</mark> Il est interdit de stipuler le fait d'être officiel dans un service ou accepté dans un gang ou une organisation (criminelle ou non), sans que cela ne soit le cas.
 
