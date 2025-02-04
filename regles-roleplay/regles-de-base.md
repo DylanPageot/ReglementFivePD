@@ -46,6 +46,4 @@ Exemple : vous ne pouvez pas braquer devant un commissariat, au milieu d'une rue
 Exemple : si vous vous rendez sur un toit, ce dernier doit être accessible grâce à une échelle, un ascenseur ou un escalier.
 {% endhint %}
 
-<mark style="color:purple;">**| 1 - 11 | -**</mark> Les actions roleplay mettant en scène des actes à connotation sexuelle sont autorisées dans la limite où elles ne sont ni abusives, ni dérangeantes pour les autres joueurs. Les scènes représentant des agressions sexuelles sont strictement interdites.
-
-<mark style="color:purple;">**| 1 - 12 | -**</mark> Les scènes à connotations sexuelles, qu'elles aient reçu le consentement des deux parties ou non, sont strictement interdites sur le serveur et sont passibles de sanctions lourdes. Le terme connotation sexuelle comprends autant l'acte sexuel (préliminaire et concret) que les insinuations à caractères sexuels (remarques, gestes, messages, ...)
+<mark style="color:purple;">**| 1 - 11 | -**</mark> Les scènes à connotations sexuelles, qu'elles aient reçu le consentement des deux parties ou non, sont strictement interdites sur le serveur et sont passibles de sanctions lourdes. Le terme connotation sexuelle comprends autant l'acte sexuel (préliminaire et concret) que les insinuations à caractères sexuels (remarques, gestes, messages, ...)
