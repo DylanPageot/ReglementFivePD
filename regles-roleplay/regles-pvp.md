@@ -4,6 +4,7 @@ description: >-
   lorsque vous effectuez une quelconque interaction roleplay avec un autre
   joueur de ce dernier.
 layout:
+  width: default
   title:
     visible: true
   description:
@@ -13,6 +14,12 @@ layout:
   outline:
     visible: false
   pagination:
+    visible: true
+  metadata:
+    visible: true
+  tags:
+    visible: true
+  actions:
     visible: true
 ---
 
@@ -32,7 +39,7 @@ Exemple : tourner autour d'une voiture de police afin d'engager une course pours
 Exemple : Vous passez à côté d'un contrôle de police, vous ne pouvez pas tenter d'aider la personne contrôlée et devez laisser la scène se jouer tranquillement.
 {% endhint %}
 
-<mark style="color:purple;">**| 4 - 04 | -**</mark> Le serveur tournant sur le mode de jeu "FivePD", vous pouvez refuser une scène avec un joueur tant que vous ne l'avez pas déjà commencée. Une fois celle-ci commencée, il faudra la termine comme il se doit et non l'annuler.
+<mark style="color:purple;">**| 4 - 04 | -**</mark> Le serveur tournant sur le mode de jeu "FivePD", vous pouvez refuser une scène avec un joueur tant que vous ne l'avez pas déjà commencée. Toutefois, si vous commettez une infraction ou délit sous les yeux de la police, une scène est automatiquement démarrée. Une fois la scène commencée, il faudra la termine comme il se doit et non l'annuler. Toute scène entraînant des poursuites judiciaires, hors personnage one-shot, devra être poursuivie jusqu’à la décision finale.
 
 <mark style="color:purple;">**| 4 - 05 | -**</mark> Lorsque vous acceptez de jouer une action RP, vous êtes maître de votre personnage et de ses actions. Si vous faites n'importe quoi, vous devez en assumer les conséquences.
 

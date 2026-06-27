@@ -1,5 +1,6 @@
 ---
 layout:
+  width: default
   title:
     visible: true
   description:
@@ -9,6 +10,12 @@ layout:
   outline:
     visible: false
   pagination:
+    visible: true
+  metadata:
+    visible: true
+  tags:
+    visible: true
+  actions:
     visible: true
 ---
 
@@ -24,7 +31,7 @@ layout:
 
 <mark style="color:purple;">**| 8 - 05 | -**</mark> Vous ne pouvez pas prétendre que votre arme est une réplique d'airsoft, nerf ou tout autre jouet.
 
-<mark style="color:purple;">**| 8 - 06 | -**</mark> Vous ne pouvez pas prétendre avoir une bombe sur vous.
+<mark style="color:purple;">**| 8 - 06 | -**</mark> Vous ne pouvez pas prétendre avoir une bombe sur vous à la suite d’une action ayant mal tournée. Les scènes développées impliquant des engins explosifs sont tolérées, sur autorisation et la surveillance d’un membre de la modération via ticket en jeu ou sur Discord. Toute scène problématique pourra être annulée par l’équipe de modération.
 
 <mark style="color:purple;">**| 8 - 07 | -**</mark> Vous ne pouvez pas prétendre avoir une bombe lors d'un braquage ou une prise d'otage.
 

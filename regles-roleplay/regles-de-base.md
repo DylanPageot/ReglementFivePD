@@ -1,5 +1,6 @@
 ---
 layout:
+  width: default
   title:
     visible: true
   description:
@@ -9,6 +10,12 @@ layout:
   outline:
     visible: false
   pagination:
+    visible: true
+  metadata:
+    visible: true
+  tags:
+    visible: true
+  actions:
     visible: true
 ---
 
@@ -47,3 +54,5 @@ Exemple : si vous vous rendez sur un toit, ce dernier doit être accessible grâ
 {% endhint %}
 
 <mark style="color:purple;">**| 1 - 11 | -**</mark> Les scènes à connotations sexuelles, qu'elles aient reçu le consentement des deux parties ou non, sont strictement interdites sur le serveur et sont passibles de sanctions lourdes. Le terme connotation sexuelle comprends autant l'acte sexuel (préliminaire et concret) que les insinuations à caractères sexuels (remarques, gestes, messages, ...)
+
+<mark style="color:purple;">**| 1 - 12 | -**</mark> Tout comportement visant à perturber l'expérience des autres joueurs ou de briser l'immersion pour son propre amusement est strictement interdit.

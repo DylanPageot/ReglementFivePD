@@ -1,5 +1,6 @@
 ---
 layout:
+  width: default
   title:
     visible: true
   description:
@@ -9,6 +10,12 @@ layout:
   outline:
     visible: false
   pagination:
+    visible: true
+  metadata:
+    visible: true
+  tags:
+    visible: true
+  actions:
     visible: true
 ---
 
@@ -23,3 +30,7 @@ layout:
 <mark style="color:purple;">**| 9 - 04 | -**</mark> Les véhicules blindés d'intervention ne doivent être sortis uniquement lorsqu'ils sont nécessaires ; peu importe l'unité ou le service. Ces derniers sont réservés aux situations à haut risque et pas destinés aux patrouilles.
 
 <mark style="color:purple;">**| 9 - 05 | -**</mark> Les véhicules civils blindés sont interdits. Il en va de même pour les pneus pare-balles.
+
+<mark style="color:purple;">**| 9 - 06 | -**</mark> Toute manœuvre de PIT peut être engagée uniquement lorsque le joueur met en danger la vie des autres usagers. Un délai raisonnable doit être respecté, vous ne pouvez pas engager une manœuvre dès le début d’une poursuite.
+
+<mark style="color:purple;">**| 9 - 07 | -**</mark> Le vol de véhicules de police, d’ambulance ou de camions de pompiers est strictement interdit.
